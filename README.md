@@ -4,6 +4,8 @@ Programs App:C,C++,C#, Java, Python, 20+ Languages
 Download from Google Playstore : 
 https://play.google.com/store/apps/details?id=com.teamup.programsapp
 
+Download from github : 
+https://github.com/okcoding21/Programs-App/raw/master/Programs%20App.apk
 
 
 ![WhatsApp Image 2020-04-15 at 11 51 47 PM](https://user-images.githubusercontent.com/31806735/79373394-22807800-7f74-11ea-92fe-31de00f3fa99.jpeg)
